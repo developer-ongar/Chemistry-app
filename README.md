@@ -2,6 +2,6 @@
 
 ## Project for diplom work.
 
-## Links:
+### Links:
 link to Trello - Soon
 link to Doc - Soon
