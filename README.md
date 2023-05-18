@@ -3,7 +3,7 @@
 ## Project for diplom work.
 
 ### Links:
-- link to Trello - https://trello.com/w/ongardev
+- link to Trello - https://trello.com/b/KGlDWevH/diplom-work
 - link to Doc - Soon
 
 ### Short description
