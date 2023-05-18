@@ -4,7 +4,7 @@
 
 ### Links:
 - link to Trello - https://trello.com/b/KGlDWevH/diplom-work
-- link to Doc - Soon
+- link to Doc - https://docs.google.com/document/d/1fzmwlBHfVsqJXU1nyH8kXgyIuHtd53DZj1ELKBXGXvQ/edit?usp=sharing
 
 ### Short description
 - The EdTech application for chemistry is an innovative platform designed for learning and understanding the structure of molecules and compounds in an interactive format.
