@@ -3,5 +3,5 @@
 ## Project for diplom work.
 
 ### Links:
-link to Trello - Soon
-link to Doc - Soon
+- link to Trello - Soon
+- link to Doc - Soon
