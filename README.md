@@ -3,5 +3,5 @@
 ## Project for diplom work.
 
 ### Links:
-- link to Trello - Soon
+- link to Trello - https://trello.com/w/ongardev
 - link to Doc - Soon
