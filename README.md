@@ -1,2 +1,3 @@
 # Chemistry-app
-EdTech App
+
+Project for diplom work.
