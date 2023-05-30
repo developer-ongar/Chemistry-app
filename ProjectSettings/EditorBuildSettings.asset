@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Function/2DMolView/2DMolScene.unity
+    path: Assets/Scenes/LaunchScreen.unity
+    guid: 9c09312ec9b4649d991ead0dfa175ddc
+  - enabled: 1
+    path: Assets/Scenes/Function/HomeScreen.unity
     guid: 3a94490d33bf14a168268a0b72d27932
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/Function/3DScene.unity
+    guid: 938c077f40a814d4584ce2ad17947cf3
+  - enabled: 1
+    path: Assets/Scenes/Function/ARScene.unity
+    guid: 64fcad684563544968c6d641746fdb29
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 431de8b8dd6624505aa0a3a164a2199a, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 5cb8d8a7236284cc389c29c5ad50b021, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9a76c4f24a0784b429874b6bec35fe69, type: 2}
