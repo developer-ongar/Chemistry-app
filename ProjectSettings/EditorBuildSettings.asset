@@ -13,11 +13,65 @@ EditorBuildSettings:
     guid: 3a94490d33bf14a168268a0b72d27932
   - enabled: 1
     path: Assets/Scenes/Function/3DScene.unity
-    guid: 938c077f40a814d4584ce2ad17947cf3
+    guid: c895b59be0f724d42b66737d9a79cf86
   - enabled: 1
     path: Assets/Scenes/Function/ARScene.unity
     guid: 64fcad684563544968c6d641746fdb29
+  - enabled: 1
+    path: Assets/Scenes/Function/3DScene/3DBenzene.unity
+    guid: 91b4568eca0fb4f0ab2d79340a9814f3
+  - enabled: 1
+    path: Assets/Scenes/Function/3DScene/3DButane.unity
+    guid: f599167722d934aa08aa836cf7e9aa4e
+  - enabled: 1
+    path: Assets/Scenes/Function/3DScene/3DEthane.unity
+    guid: d7e00f4f1d15248b5b6a0486fe20cd40
+  - enabled: 1
+    path: Assets/Scenes/Function/3DScene/3DEthanol.unity
+    guid: 7722cc308d4d74df69c86fb06ea87745
+  - enabled: 1
+    path: Assets/Scenes/Function/3DScene/3DFullerene.unity
+    guid: 46b87080466de43e08cf5999acc95c87
+  - enabled: 1
+    path: Assets/Scenes/Function/3DScene/3DH2O.unity
+    guid: db7538ec1eb1b4c7e81deb2dd1029772
+  - enabled: 1
+    path: Assets/Scenes/Function/3DScene/3DHexane.unity
+    guid: 15a094d92a1b848adbdbffc1b249fd92
+  - enabled: 1
+    path: Assets/Scenes/Function/3DScene/3DMethane.unity
+    guid: 42ed556f8ee53498fb5d2e803b2004f9
+  - enabled: 1
+    path: Assets/Scenes/Function/3DScene/3DPropane.unity
+    guid: 760e4dd25efda48d6bcb8a307c2af9b0
+  - enabled: 1
+    path: Assets/Scenes/Function/ARScene/ARBenzene.unity
+    guid: e8db75e9706634b1b9521ddf2b19ae03
+  - enabled: 1
+    path: Assets/Scenes/Function/ARScene/ARButane.unity
+    guid: 76add6ff93c634a71838d5fac35cf028
+  - enabled: 1
+    path: Assets/Scenes/Function/ARScene/AREthane.unity
+    guid: 85c4a4a9afc7749bb8a95037d359d13a
+  - enabled: 1
+    path: Assets/Scenes/Function/ARScene/AREthanol.unity
+    guid: 919c1c2763a5e4656a7662025b3a4f62
+  - enabled: 1
+    path: Assets/Scenes/Function/ARScene/ARFullerene.unity
+    guid: 00b9967c0d5814b1b818a5d9bb3a426b
+  - enabled: 1
+    path: Assets/Scenes/Function/ARScene/ARH2O.unity
+    guid: 5a498d06833904f8b83f1d6ad1206acd
+  - enabled: 1
+    path: Assets/Scenes/Function/ARScene/ARHexane.unity
+    guid: 4c92bc3caa34a474b83ef6039149d064
+  - enabled: 1
+    path: Assets/Scenes/Function/ARScene/ARMethane.unity
+    guid: f7c53a5d3d63e4f98a912226c5e74004
+  - enabled: 1
+    path: Assets/Scenes/Function/ARScene/ARPropane.unity
+    guid: 6fc07f695835342458d8af68210ac04d
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 431de8b8dd6624505aa0a3a164a2199a, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 5cb8d8a7236284cc389c29c5ad50b021, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9a76c4f24a0784b429874b6bec35fe69, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8f2c5321fa08f4bec860b1230fddb4d6, type: 2}

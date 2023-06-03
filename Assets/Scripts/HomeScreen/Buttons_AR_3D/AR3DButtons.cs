@@ -6,20 +6,20 @@ using UnityEngine.SceneManagement;
 
 namespace Ongar
 {
-    public class AR_3D_Buttons : MonoBehaviour
+    public class AR3DButtons : MonoBehaviour
     {
-        [SerializeField] private Button _buttonARPressed;
+        [SerializeField] private Button _aRButtonPressed;
         [SerializeField] private Button _button3DPressed;
 
-        public void buttonARPressed()
+        public void ARButtonPressed()
         {
             SceneManager.LoadScene(3);
         }
 
-        public void button3DPressed()
+        public void Button3DPressed()
         {
             SceneManager.LoadScene(2);
         }
     }
-
 }
+
