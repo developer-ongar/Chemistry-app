@@ -1,6 +1,6 @@
 # Chemistry-app
 
-## Project for diplom work.
+## Project for diploma work.
 
 ### Links:
 - link to Trello - https://trello.com/invite/b/KGlDWevH/ATTI70e2249ae2eba077b60bd52e561366450B9136FE/diplom-work
