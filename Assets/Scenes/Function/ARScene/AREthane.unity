@@ -272,7 +272,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 237361415}
   mHiddenRoot: {fileID: 0}
-  mTargetName: ARChemIZI_scaled
+  mTargetName: ARChemIZI_scaled1
   mDatasetName: 
   mCastedBehaviour: {fileID: 237361415}
   mMeshFilter: {fileID: 0}
@@ -336,14 +336,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: ARChemIZI_scaled
+  mTrackableName: ARChemIZI_scaled1
   mInitializedInEditor: 1
   mDataSetPath: 
   mAspectRatio: 1
   mImageTargetType: 3
   mWidth: 0.19999999
   mHeight: 0.19999999
-  mRuntimeTexture: {fileID: 2800000, guid: 26274630e9224c439f0be0be5fa30324, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: 50277ff278c24d4aad2082b8251d6f37, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0

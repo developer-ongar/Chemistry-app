@@ -10,6 +10,7 @@ namespace Ongar
     {
         [SerializeField] private Button _aRButtonPressed;
         [SerializeField] private Button _button3DPressed;
+        [SerializeField] private Button _buttonAIPressed;
 
         public void ARButtonPressed()
         {
@@ -19,6 +20,11 @@ namespace Ongar
         public void Button3DPressed()
         {
             SceneManager.LoadScene(2);
+        }
+
+        public void ButtonAIPressed()
+        {
+            SceneManager.LoadScene(22);
         }
     }
 }

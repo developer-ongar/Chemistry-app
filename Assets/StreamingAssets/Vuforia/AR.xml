@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="AIMarker" size="1.000000 0.983030" />
     <ImageTarget name="ARChemIZI" size="1.000000 1.000000" />
   </Tracking>
 </QCARConfig>
